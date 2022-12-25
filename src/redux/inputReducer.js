@@ -1,21 +1,19 @@
-import {INPUT_TEXT} from "./type"
+import { INPUT_TEXT } from "./type";
 
 const initialState = {
-    text: ''
-}
+  text: "",
+};
 
 export const inputReducer = (state = initialState, action) => {
+  switch (action.type) {
+    // cdcndjc
+    case INPUT_TEXT:
+      return {
+        ...state,
+        text: action.text,
+      };
 
-    switch (action.type) {
-        case INPUT_TEXT:
-          return {
-           
-            ...state,
-            text: action.text,
-          }
-          
-          default:
-          return state;
-    };
-
-}
+    default:
+      return state;
+  }
+};
