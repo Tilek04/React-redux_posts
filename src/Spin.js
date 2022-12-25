@@ -1,6 +1,5 @@
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import Loader from "react-loader-spinner";
-import { appReducer } from "./redux/appReducer";
 
 const Spin = (props) => {
     const spinner = useSelector(state => state.appReducer.loading

@@ -4,7 +4,6 @@ import Likes from './Likes';
 import { Title } from './redux/Title';
 import Comments from './Comments';
 import Spin from './Spin';
-import { appReducer } from './redux/appReducer';
 
 
 function App() {
