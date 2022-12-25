@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tilek04/React-redux_posts/static/css/main.9175e262.chunk.css",
-    "main.js": "/Tilek04/React-redux_posts/static/js/main.775a8dfc.chunk.js",
-    "main.js.map": "/Tilek04/React-redux_posts/static/js/main.775a8dfc.chunk.js.map",
+    "main.js": "/Tilek04/React-redux_posts/static/js/main.c0063ec0.chunk.js",
+    "main.js.map": "/Tilek04/React-redux_posts/static/js/main.c0063ec0.chunk.js.map",
     "runtime-main.js": "/Tilek04/React-redux_posts/static/js/runtime-main.494dc00f.js",
     "runtime-main.js.map": "/Tilek04/React-redux_posts/static/js/runtime-main.494dc00f.js.map",
     "static/js/2.6e8dba3f.chunk.js": "/Tilek04/React-redux_posts/static/js/2.6e8dba3f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.494dc00f.js",
     "static/js/2.6e8dba3f.chunk.js",
     "static/css/main.9175e262.chunk.css",
-    "static/js/main.775a8dfc.chunk.js"
+    "static/js/main.c0063ec0.chunk.js"
   ]
 }
